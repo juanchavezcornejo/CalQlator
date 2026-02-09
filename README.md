@@ -53,7 +53,7 @@ This project demonstrates a robust implementation of modern software engineering
 Run the pre-built binary:
 
 ```sh
-curl -L "https://raw.githubusercontent.com/jcflow/CalQlator/master/dist/CalQlator" -o CalQlator
+curl -L "https://raw.githubusercontent.com/juanchavezcornejo/CalQlator/master/dist/CalQlator" -o CalQlator
 chmod +x CalQlator
 ./CalQlator
 ```
@@ -62,7 +62,7 @@ chmod +x CalQlator
 Checkout the app bundle:
 
 ```sh
-svn checkout "https://github.com/jcflow/CalQlator/trunk/dist/CalQlator.app"
+svn checkout "https://github.com/juanchavezcornejo/CalQlator/trunk/dist/CalQlator.app"
 open CalQlator.app
 ```
 
